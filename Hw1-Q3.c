@@ -9,7 +9,7 @@ int main(){
     homeValue= (popularity*popularity*popularity+size*size)*1000;
      
     printf("Yhis home calues: %f", homeValue);
-    system("pause");
+    
     return 0;
     
     }
