@@ -12,6 +12,6 @@ void computeHomeValue(void) {
 
 int main() {
     computeHomeValue();
-    system("pause");
+    
     return 0;
 }
