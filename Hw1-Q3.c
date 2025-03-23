@@ -8,7 +8,7 @@ int main(){
     scanf("%f",&size);
     homeValue= (popularity*popularity*popularity+size*size)*1000;
      
-    printf("Yhis home calues: %f", homeValue);
+    printf("This home calues: %f", homeValue);
     
     return 0;
     
